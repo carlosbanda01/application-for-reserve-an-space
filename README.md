@@ -1,6 +1,8 @@
 # application-for-reserve-an-space
 Pre-sketch of a code for an application where u can reserve an space
+
 #Grupo 5-SD
+
 En el presente codigo trabajaron los siguientes alumnos:
 
 -Diego Chunga Shimokawa, copiando a detalle el codigo base, el cual luego seria corregido y reescrito multiples veces.
