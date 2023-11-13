@@ -2,6 +2,7 @@
 Pre-sketch of a code for an application where u can reserve an space
 #Grupo 5-SD
 En el presente codigo trabajaron los siguientes alumnos:
+
 -Diego Chunga Shimokawa, copiando a detalle el codigo base, el cual luego seria corregido y reescrito multiples veces
 -Carlos Banda Moreno, corrigiendo los errores de los principales scripts del codigo
 -Pierina Garcia Camacho, revisando de forma constante el codigo y ultimando detalles del mismo
