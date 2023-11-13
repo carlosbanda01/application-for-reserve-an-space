@@ -1,5 +1,5 @@
 import assets
-#El numero de grupo y demas especificaciones requeridas estan en readme.txt
+#El numero de grupo y demas especificaciones requeridas estan en readme.dm
 def main():
     print("Iniciando Programa....")
     results=assets.access()# funcion que inicia el sistema
